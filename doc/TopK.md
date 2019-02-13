@@ -1,4 +1,3 @@
-
 # 1. 问题描述
 
 TopK Elements 问题用于找出一组数中最大的 K 个的数。
@@ -118,7 +117,7 @@ Heavy Hitters 问题要求找出一个数据流的最频繁出现的 K 个数，
 
 该算法的思想和布隆过滤器类似，具有一定的误差，特别是当 w 很小时。但是它能够在单机环境下解决海量数据的频率统计问题。
 
-![](https://diycode.b0.upaiyun.com/photo/2019/1e6f5d5dc2cf7620e3cf0f1229a49b50.png)
+![](https://diycode.b0.upaiyun.com/photo/2019/ed3d9d4116c85d555b2b00cdd35c223a.png)
 
 ```java
 public class CountMinSketch {
