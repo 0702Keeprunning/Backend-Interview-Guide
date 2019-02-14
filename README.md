@@ -7,7 +7,8 @@
 - [TopK](doc/TopK.md)
 - [扫二维码登录过程](doc/扫二维码登录过程.md)
 - [一文帮你理清面试知识点](doc/一文帮你理清面试知识点.md)
-- [从春招惨败到秋招收获 BAT OFFER](doc/从春招惨败到秋招收获%20BAT%20OFFER.md)
 - [写好技术简历](doc/写好技术简历.md)
+- [从春招惨败到秋招收获 BAT OFFER](doc/从春招惨败到秋招收获%20BAT%20OFFER.md)
+
 
 订阅 [专栏](https://xiaozhuanlan.com/CyC2018) 以获取全部内容。
